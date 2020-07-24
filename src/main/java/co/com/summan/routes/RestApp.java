@@ -3,9 +3,9 @@ package co.com.summan.routes;
 import org.apache.camel.Exchange;
 import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.model.rest.RestBindingMode;
-import org.springframework.stereotype.Component;
+//import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 public class RestApp extends RouteBuilder{
 	
 	@Override
